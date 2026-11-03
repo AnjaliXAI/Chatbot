@@ -1,0 +1,120 @@
+{
+  "company_name": "TechNova Solutions",
+
+  "product_or_service": "We provide website development, website redesign, e-commerce development, search engine optimization (SEO), and digital marketing consultation services.",
+
+  "price": "Our pricing depends on the project requirements, website complexity, and selected services. Our team can provide a customized quotation after understanding your needs.",
+
+  "working_hours": "Monday to Saturday, 10 AM to 6 PM.",
+
+  "contact": "Our team can arrange a callback to discuss your requirements.",
+
+  "next_step": "Offer to arrange a callback or schedule a consultation with the sales team.",
+
+  "faqs": [
+    {
+      "question": "What services does your company provide?",
+      "keywords": [
+        "services",
+        "company",
+        "website",
+        "seo",
+        "digital marketing",
+        "offer"
+      ],
+      "answer": "TechNova Solutions provides website development, website redesign, e-commerce development, SEO, and digital marketing consultation."
+    },
+    {
+      "question": "How much does a website cost?",
+      "keywords": [
+        "website price",
+        "price",
+        "cost",
+        "quotation",
+        "budget",
+        "website charges"
+      ],
+      "answer": "Website pricing depends on your requirements, design complexity, and functionality. Our team can prepare a customized quotation after understanding your project."
+    },
+    {
+      "question": "Do you provide SEO services?",
+      "keywords": [
+        "seo",
+        "search engine optimization",
+        "google ranking",
+        "website traffic",
+        "organic traffic"
+      ],
+      "answer": "Yes. Our sample service offering includes SEO services intended to improve website search visibility. Specific deliverables and expected results would be discussed during a consultation."
+    },
+    {
+      "question": "How long does website development take?",
+      "keywords": [
+        "development time",
+        "how long",
+        "website duration",
+        "deadline",
+        "delivery time"
+      ],
+      "answer": "The timeline depends on the website's size, features, content, and requirements. Our team can estimate the timeline after reviewing your project."
+    },
+    {
+      "question": "Do you develop e-commerce websites?",
+      "keywords": [
+        "ecommerce",
+        "e-commerce",
+        "online store",
+        "shopping website",
+        "online selling"
+      ],
+      "answer": "Yes. Our sample service offering includes e-commerce website development for businesses that want to sell products online."
+    },
+    {
+      "question": "Do you offer discounts?",
+      "keywords": [
+        "discount",
+        "offer",
+        "coupon",
+        "deal",
+        "reduction"
+      ],
+      "answer": "I do not have approved discount information. Our team can check whether any suitable offers are available."
+    },
+    {
+      "question": "What are your working hours?",
+      "keywords": [
+        "hours",
+        "timing",
+        "time",
+        "open",
+        "working"
+      ],
+      "answer": "Our sample business hours are Monday to Saturday, from 10 AM to 6 PM."
+    },
+    {
+      "question": "Can I speak to your sales team?",
+      "keywords": [
+        "sales",
+        "talk to someone",
+        "human",
+        "callback",
+        "consultation",
+        "contact"
+      ],
+      "answer": "Certainly. I can help collect your requirements so that the sales team can follow up and discuss your project."
+    },
+    {
+      "question": "How can I get started?",
+      "keywords": [
+        "start",
+        "get started",
+        "begin",
+        "project",
+        "consultation"
+      ],
+      "answer": "To get started, please share the service you are interested in, a brief description of your requirements, and your preferred callback time."
+    }
+  ],
+
+  "fallback_answer": "I don't have verified information about that question yet. I can arrange a follow-up with our team so they can provide an accurate answer."
+}  
